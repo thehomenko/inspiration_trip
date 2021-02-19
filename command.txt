@@ -1,0 +1,23 @@
+C:\Users\Женя\PhpstormProjects\inspiration__trip>doskey /history
+git status
+git add readme.md
+git status
+git commit -m "initial"
+git remote add origin https://github.com/thehomenko/inspiration_trip.git
+git push -u origin main
+git -b
+git branch develop
+git checkout develop
+git pull
+git fetch
+docker ps
+docker-compose ps
+docker-compose build
+docker-compose up -d
+docker ps
+docker-compose down
+docker-compose ps
+history
+story
+history
+doskey /history
